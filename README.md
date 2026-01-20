@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GearGuard
 
 Flask application for GearGuard.
@@ -40,3 +41,6 @@ The application will be available at `http://localhost:5000`
 - `GET /` - Welcome message
 - `GET /health` - Health check endpoint
 
+=======
+# Gear-guard
+>>>>>>> 632e4f9f51bb4162a399c1541f64a9008af66704
